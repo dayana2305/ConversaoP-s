@@ -1,2 +1,2 @@
-# ConversaoP-s
-Pós em teste de software - Atividade testes unitários
+# ConversaoPosTestesSoftware
+Pós em teste de software - Atividade Testes Unitários
